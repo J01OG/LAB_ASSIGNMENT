@@ -1,15 +1,53 @@
+tips(for a fresh start)
+:Go through the ppts try to understand the concepts through reading the ppts and also try to understand the sample questions in the ppts\n
+:pls dont go through any ppts or program if you dont feel like it\n
+:try to solve all the given question after you read the ppt 
+:download the answers only if you have given the question atleast 12h 
+:if solving the given question is enough for you should always search more question
+:if you search any question on youtube there is an explanation on the question if you do not understand the question pls go through the vidio then only continew
+:if the program makes you stress enjoy it
+
+
+when do you know you can continew to the next topic\n
+:the key point to know here is every next topic would use what you have studed before the topic so if you want to go to the next topic 
+ keep in mind :you must have complete knowledge of what you had studed and if anyone would give any question you should be in the position to solve it
+ let it be the hardest question of the topic ,if you have this much confidence you may go to the next topic 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # LAB_ASSIGNMENT  assignment 5(1)- assignment 11(1)
 all the lab assignment given by k rajesh
 bacha hua edhar upload kar deh geh.
 koi code galat ho ga mail kar dena 2106118@kiit.ac.in
---------------------------------------------------------------------------------------------------------------------------------------------
-                                                                  ASSIGNMENT_5(1)
+
+                                                            ASSIGNMENT_5(1)
 ________________________________________________________________________________________________________________________________________
 LA5.1 WAP to input 10 integers into an array of size 10. Print all elements.
-LA5.2 WAP to store max. 100 numbers into an array. Print all the elements
- that are three digit even integers.
-LA5.3 WAP to find out the largest even integer stored in the array of n
- integers. n is the user input.
+LA5.2 WAP to store max. 100 numbers into an array. Print all the elements that are three digit even integers.
+LA5.3 WAP to find out the largest even integer stored in the array of n integers. n is the user input.
 LA5.4 WAP to swap the pair of elements starting from beginning.
 LA5.5 WAP to arrange the numbers stored in the array so that it will display  first all odd numbers,then even numbers.
 LA5.6 WAP to display the array elements in reverse order.
