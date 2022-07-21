@@ -1,11 +1,12 @@
 tips(for a fresh start)
 :Go through the ppts try to understand the concepts through reading the ppts and also try to understand the sample questions in the ppts\n
 :pls dont go through any ppts or program if you dont feel like it\n
-:try to solve all the given question after you read the ppt 
+:try to solve all the given question after you read the ppt or go through the theory online  
 :download the answers only if you have given the question atleast 12h 
 :if solving the given question is enough for you should always search more question
 :if you search any question on youtube there is an explanation on the question if you do not understand the question pls go through the vidio then only continew
 :if the program makes you stress enjoy it
+
 
 
 when do you know you can continew to the next topic\n
@@ -15,6 +16,8 @@ when do you know you can continew to the next topic\n
  
 
 these are all the code i got in collage if you want to add more or you can mail me @ 2106118@kiit.ac.in with the question 
+
+
 
 							
 							assignment_one
