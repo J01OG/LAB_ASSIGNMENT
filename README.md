@@ -59,16 +59,12 @@ LA2.9 WAP to add two times in hour, minute & second format entered through the k
 								assignment_Three
 
 
-LA3.1 WAP to input any two integers distinct and display the
-greater of two integers.
-LA3.2 WAP to input any three integers distinct and display 
-the greater of three integers.
-LA3.3 WAP to test whether a number entered through keyboard 
-is ODD or EVEN.
-LA3.4 WAP to read an alphabet from from the user and convert
-it into lowercase if the entered alphabet is in uppercase,
-otherwise display an appropriate message.
+LA3.1 WAP to input any two integers distinct and display the greater of two integers.
+LA3.2 WAP to input any three integers distinct and display the greater of three integers.
+LA3.3 WAP to test whether a number entered through keyboard is ODD or EVEN.
+LA3.4 WAP to read an alphabet from from the user and convert it into lowercase if the entered alphabet is in uppercase,otherwise display an appropriate message.
 LA3.5 Wap to find the root of equation
+
 
 								Assignment_three(2)
 LA3.5.1 WAP to input any two integers, and provide a menu to the user to select any of the options as add, subtract, multiply, divide and display the result accordingly. Use else..if ladder.
