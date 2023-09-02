@@ -20,126 +20,73 @@ these are all the code i got in collage if you want to add more or you can mail 
 
 
 							
-							assignment_one
+## Tips for a Fresh Start
 
-LA1.1 WAP to display “KIMS” using the character ‘#’.
+### Assignment Two
+- **LA2.1** Write a program to subtract a number from another number and display the result.
+- **LA2.2** Write a program to convert temperature from centigrade to Fahrenheit scale.
+- **LA2.3** Write a program to calculate the perimeter of a circle.
+- **LA2.4** Write a program to calculate the area of a triangle whose three sides are given.
+- **LA2.5** Write a program to swap two integer numbers without using a third variable.
+- **LA2.6** Write a program to convert a quantity in meter entered through keyboard into its equivalent kilometer and meter as per the following format. Example: 2430 meter = 2 Km and 430 meter.
+- **LA2.7** Write a program to find the average mark of 5 subjects of a student and find the percentage. Assume the full mark of each subject is 100.
+- **LA2.8** Write a program that swaps the contents of two variables by using a single statement for swap in C.
+- **LA2.9** Write a program to add two times in hour, minute & second format entered through the keyboard in the format hh:mm:ss.
 
-LA1.2 WAP to display the message by using a single printf statement.
-		If The End Is Good,
-		  Then It Is Good,
-		Whatever Be The Means.
-
-LA1.3 WAP to print your BIO-DATA (Name, Regd.no, Branch, JEE Rank, Gender,
- Phone no., Address etc.) using printf statement.
-
-LA2.1 WAP to subtract a number from another number and display the result.
-
-LA2.2 WAP to convert temperature from centigrade to Fahrenheit scale.
-
-LA2.3 WAP to calculate the perimeter of a circle.
-
-LA2.4 WAP to calculate the area of a triangle whose three sides are given.
-
-
-					Assignment_two
+### Assignment Three
+- **LA3.1** Write a program to input any two integers distinct and display the greater of two integers.
+- **LA3.2** Write a program to input any three integers distinct and display the greater of three integers.
+- **LA3.3** Write a program to test whether a number entered through keyboard is ODD or EVEN.
+- **LA3.4** Write a program to read an alphabet from from the user and convert it into lowercase if the entered alphabet is in uppercase, otherwise display an appropriate message.
+- **LA3.5** Write a program to find the root of an equation.
 
 
-LA2.5 WAP to swap two integer numbers without using a third variable.
+## Assignment Three (2)
+- **LA3.5.1** Write a program to input any two integers, and provide a menu to the user to select any of the options as add, subtract, multiply, divide and display the result accordingly. Use else..if ladder.
+- **LA3.6.1** Write a program to display the grade system of KIIT University based on total marks secured by a student in a semester. Use else..if ladder statement.
+- **LA3.7** Write a program to find the maximum between two numbers using a switch case.
+- **HA3.1** Write a program to check whether a character entered through keyboard is a digit, letter, special character etc or not.
+- **HA3.2** Write a program which takes two integer operands and one operator form the user, performs the operation and then prints the result. (Consider the operators +,-,*, /, % etc). Use a switch case.
+- **HA3.3** Write a program to find the roots of a quadratic equation ax2+bx+c=0 using switch-case statement.
+- **HA3.4** Write a program to check whether a number is even or odd using a switch case.
+- **HA3.5** Write a program to check whether the triangle is equilateral, isosceles or scalene triangle.
+- **HA3.6** Write a program to calculate profit or loss by taking selling and cost price.
 
-LA2.6 WAP to convert a quantity in meter entered through keyboard into its equivalent kilometer and meter as per the following format.Example. 2430 meter = 2 Km and 430 meter.
- 
-LA2.7 WAP to find the average mark of 5 subjects of a student and find the percentage. Assume the full mark of each subject is 100.
+## Assignment Four (1)
+- **LA4.1** Write a program to print your name 5 times using a while loop.
+- **LA4.2** Write a program to input any integer and print your name that many times.
+- **LA4.3** Write a program to print the series as 1 2 3 4 5 6 7 ..........100.
+- **LA4.4** Write a program to print the series as 1 3 7 15 31 ..........n, where n is given by user.
+- **LA4.5** Write a program to print the series as 1 1 2 3 5 8 13 ..........n, where n is given by user.
+- **LA4.6** Write a program to print the series as 3 5 7 11 13 17..........n, where n is given by user.
+- **LA4.7** Write a program to print all odd and even numbers separately within a given range.The range is input through the user.
 
-LA2.8 WAP swaps the contents of two variables by using a single statement for swap in C.
+	
+								##Assignment_Four_(2)
 
-LA2.9 WAP to add two times in hour, minute & second format entered through the keyboard in the format hh:mm:ss
-
-
-
-								assignment_Three
-
-
-LA3.1 WAP to input any two integers distinct and display the greater of two integers.
-LA3.2 WAP to input any three integers distinct and display the greater of three integers.
-LA3.3 WAP to test whether a number entered through keyboard is ODD or EVEN.
-LA3.4 WAP to read an alphabet from from the user and convert it into lowercase if the entered alphabet is in uppercase,otherwise display an appropriate message.
-LA3.5 Wap to find the root of equation
-
-
-								Assignment_three(2)
-LA3.5.1 WAP to input any two integers, and provide a menu to the user to select any of the options as add, subtract, multiply, divide and display the result accordingly. Use else..if ladder.
-LA3.6.1 WAP to display the grade system of KIIT University based on total marks secured by a student in a semester. Use else..if ladder statement.
-LA3.7 WAP to find the maximum between two numbers using a switch case.
-HA3.1 WAP to check whether a character entered through keyboard is a digit,
- letter, special character etc or not.
-HA3.2 WAP which takes two integer operands and one operator form the user,
- performs the operation and then prints the result. (Consider the operators
- +,-,*, /, % etc). Use a switch cse.
-HA3.3 WAP to find the roots of a quadratic equation ax2+bx+c=0 using
- switch-case statement.
-HA3.4 WAP to check whether a number is even or odd using a switch case.
-HA3.5 WAP to check whether the triangle is equilateral, isosceles or
- scalene triangle.
-HA 3.6 WAP to calculate profit or loss by taking selling and cost price
-
-LA3.5.1 WAP to input any two integers, and provide a menu to the user to select any of the options as add, subtract, multiply, divide and display the result accordingly. Use else..if ladder.
-
- 								Assignment_Four_(1)
-LA4.1 WAP to print your name 5 times using a while loop.
-LA4.2 WAP to input any integer and print your name that many times.
-LA4.3 WAP to print the series as 1 2 3 4 5 6 7 ..........100.
-LA4.4 WAP to print the series as 1 3 7 15 31 ..........n, where n is given by
- user.
-LA4.5 WAP to print the series as 1 1 2 3 5 8 13 ..........n, where n is given 
- user.
-LA4.6 WAP to print the series as 3 5 7 11 13 17..........n, where n is given
- by user.
-LA4.7 WAP to print all odd and even numbers separately within a given range.The range is input through the user.
- 
-HA4.1 WAP to check whether an input integer is a strong number or not.
-(Hint: If the sum of factorials of all digits of a number are equal to the 
-number are equal to the number, it is called a strong number )
-HA4.2 WAP to find out the prime factors of a number entered through keyboard 
-(distinct).
-/*Hints: A prime number is any number with no divisors other than itself and
- 1, such as 2 and 5. Any number can be written as a product of prime numbers
- in a unique way (except for the order). These are called prime factors of a
- number. In other words, In number theory, the prime factors of a positive
- integer are the prime numbers that divide that integer exactly, without 
- leaving a remainder. The process of finding these numbers is called integer
- factorization, or prime factorization. 
- • Enter a number : 100
- • The prime factors of 100 are 2(2) and 5(2)
- • That is, 100 = 2 x 2 x 5 x 5, and those numbers are primes. */
-  									
-									
-								Assignment_Four_(2)
-
-LA4.8 WAP to display the reverse of a number entered through the keyboard.
-LA4.9 WAP to check whether an integer number is an Armstrong number or not!.
-LA4.10 WAP to print the following pattern for n rows. Ex. for n=5 rows
+- **LA4.8** WAP to display the reverse of a number entered through the keyboard.
+- **LA4.9** WAP to check whether an integer number is an Armstrong number or not!.
+- **LA4.10** WAP to print the following pattern for n rows. Ex. for n=5 rows
 	A
 	B A
 	C B A
 	D C B A
 	E D C B A
 	
-LA4.11 WAP to print the following pattern for n rows. Ex. for n=5 rows
+- **LA4.11** WAP to print the following pattern for n rows. Ex. for n=5 rows
 	1
 	2 1
 	1 2 3
 	4 3 2 1
 	1 2 3 4 5
 
-
-HA4.3 WAP to form a reverse pyramid of numbers for a given number. Ex. for
- number 4
+- **HA4.3** WAP to form a reverse pyramid of numbers for a given number. Ex. for number 4
 	1 2 3 4 3 2 1
 	  1 2 3 2 1
 	    1 2 1
 	      1
 		  
-HA4.4 WAP to print the following pattern for n rows. Ex. for n=6 rows
+- **HA4.4** WAP to print the following pattern for n rows. Ex. for n=6 rows
 	0
 	1 0
 	0 1 0
@@ -147,18 +94,14 @@ HA4.4 WAP to print the following pattern for n rows. Ex. for n=6 rows
 	0 1 0 1 0
 	1 0 1 0 1 0
 	
-HA4.5 WAP to generate the pascal triangle pyramid of numbers for a given 
-number.
-Ex. for number 4
+- **HA4.5** WAP to generate the pascal triangle pyramid of numbers for a given number.Ex. for number 4
 	    1
 	   1 1
 	  1 2 1
 	 1 3 3 1
 	1 4 6 4 1
 	
-HA4.6 WAP to display the following style o/p for a given string input through
- keyboard.(Ex.for a string “KIITCSIT”)
- 
+- **HA4.6** WAP to display the following style o/p for a given string input through keyboard.(Ex.for a string “KIITCSIT”)
 KIITCSITTISCTIIK
 KIITCSI  ISCTIIK
 KIITCS    SCTIIK
@@ -175,81 +118,81 @@ KIITCS    SCTIIK
 KIITCSI  ISCTIIK
 KIITCSITTISCTIIK
 
-HA4.7 WAP to convert a decimal number into its equivalent binary number.	
+- **HA4.7** WAP to convert a decimal number into its equivalent binary number.	
 
 SUM OF SERIES
 
-.	1.) (1*1)+(2*2)+(3*3)+(4*4)+...+(N*N)\n
+.		1.) (1*1)+(2*2)+(3*3)+(4*4)+...+(N*N)\n
 		2.) (1)+(1/2)+(1/3)+(1/4)+...+(1/N)\n
 		3.) (1)+(3*3/3*3*3)+(5*5/5*5*5)+(7*7/7*7*7)+....+N\n
 		4.)(1)+(1+2)+(1+2+3)+(1+2+3+4)+.....+(1+2+3+4+...+N)\n
-
-	
-  						  Assignment_Four_(3)
-
-
-1. WAP to find all factors of a number.
-2. WAP to find LCM of two numbers.
-3. WAP to print all ASCII characters with their values.
-4. WAP to print all Armstrong numbers between 1 to n.
-5. WAP to print all Perfect numbers between 1 to n.
-6. WAP to print all Strong numbers between 1 to n.
-7. WAP to to find one's complement of a binary number.
-8. WAP to find two's complement of a binary number.
-9. WAP to convert Binary to Octal number system.
-10. WAP to convert Binary to Decimal number system.
-11. WAP to convert Binary to Hexadecimal number system.
-12. WAP to convert Octal to Binary number system.
-13. WAP to convert Octal to Decimal number system.
-14. WAP to convert Octal to Hexadecimal number system.
-15. WAP to convert Decimal to Binary number system.
-16. WAP to convert Decimal to Octal number system.
-17. WAP to convert Decimal to Hexadecimal number system.
-18. WAP to convert Hexadecimal to Binary number system.
-19. WAP to convert Hexadecimal to Octal number system.
-20. WAP to convert Hexadecimal to Decimal number system.
+		
+## Assignment Four (3)
+- **1.** Write a program to find all factors of a number.
+- **2.** Write a program to find LCM of two numbers.
+- **3.** Write a program to print all ASCII characters with their values.
+- **4.** Write a program to print all Armstrong numbers between 1 to n.
+- **5.** Write a program to print all Perfect numbers between 1 to n.
+- **6.** Write a program to print all Strong numbers between 1 to n.
+- **7.** Write a program to find one's complement of a binary number.
+- **8.** Write a program to find two's complement of a binary number.
+- **9.** Write a program to convert Binary to Octal number system.
+- **10.** Write a program to convert Binary to Decimal number system.
+- **11.** Write a program to convert Binary to Hexadecimal number system.
+- **12.** Write a program to convert Octal to Binary number system.
+- **13.** Write a program to convert Octal to Decimal number system.
+- **14.** Write a program to convert Octal to Hexadecimal number system.
+- **15.** Write a program to convert Decimal to Binary number system.
+- **16.** Write a program to convert Decimal to Octal number system.
+- **17.** Write a program to convert Decimal to Hexadecimal number system.
+- **18.** Write a program to convert Hexadecimal to Binary number system.
+- **19.** Write a program to convert Hexadecimal to Octal number system.
+- **20.** Write a program to convert Hexadecimal to Decimal number system.
 
 
-                                                            ASSIGNMENT_5(1)
-________________________________________________________________________________________________________________________________________
-LA5.1 WAP to input 10 integers into an array of size 10. Print all elements.
-LA5.2 WAP to store max. 100 numbers into an array. Print all the elements that are three digit even integers.
-LA5.3 WAP to find out the largest even integer stored in the array of n integers. n is the user input.
-LA5.4 WAP to swap the pair of elements starting from beginning.
-LA5.5 WAP to arrange the numbers stored in the array so that it will display  first all odd numbers,then even numbers.
-LA5.6 WAP to display the array elements in reverse order.
+##ASSIGNMENT_5(1)
 
-HA5.1 WAP to swap first element with last, second element with second last and so on, stored in an array.
-HA5.2 WAP to find out the second largest element stored in an array of 20 integers.
-HA5.3 WAP to find the median of a list of numbers.
-HA5.4 WAP to find the standard deviation of a list of numbers.
-HA5.5 WAP to sort 3 elements stored in an array without using any sorting algorithm.
-________________________________________________________________________________________________________________________________
-					                                            ASSIGNMENT_5(2)
-LA1. WAP to print fibonacci series using arrays.
-LA2. WAP to find first and second largest in an array.
-LA3. WAP to perform linear search on a array for a search key.
-LA4. WAP to perform binary search on a array for a search key.
-LA5. WAP to print odd and even numbers in a array.
-LA6. WAP to print binary equivalent of a given decimal number using arrays.
-LA7. WAP to sort an array using selection sort algorithm.
-LA8. WAP to sort an array using bubble sort algorithm.
+- **LA5.1** WAP to input 10 integers into an array of size 10. Print all elements.
+- **LA5.2** WAP to store max. 100 numbers into an array. Print all the elements that are three digit even integers.
+- **LA5.3** WAP to find out the largest even integer stored in the array of n integers. n is the user input.
+- **LA5.4** WAP to swap the pair of elements starting from beginning.
+- **LA5.5** WAP to arrange the numbers stored in the array so that it will display  first all odd numbers,then even numbers.
+- **LA5.6** WAP to display the array elements in reverse order.
 
-HA1. WAP to perform ternary search on a array for a search key.
-HA2. WAP to sort an array using insertion sort algorithm.
-______________________________________________________________________________________________________________________________________________
-                                                      ASSIGNMENT_5(3)
+- **HA5.1** WAP to swap first element with last, second element with second last and so on, stored in an array.
+- **HA5.2** WAP to find out the second largest element stored in an array of 20 integers.
+- **HA5.3** WAP to find the median of a list of numbers.
+- **HA5.4** WAP to find the standard deviation of a list of numbers.
+- **HA5.5** WAP to sort 3 elements stored in an array without using any sorting algorithm.
 
-SA6.5 WAP to add two matrices and display it.
-SA6.6 WAP to multiply two matrices and display it.
-SA6.7 WAP to find the Trace(sum of the diagonal element) of a given mxn matrix.
+					                                           ##ASSIGNMENT_5(2)
+- **LA1.** WAP to print fibonacci series using arrays.
+- **LA2.** WAP to find first and second largest in an array.
+- **LA3.** WAP to perform linear search on a array for a search key.
+- **LA4.** WAP to perform binary search on a array for a search key.
+- **LA5.** WAP to print odd and even numbers in a array.
+- **LA6.** WAP to print binary equivalent of a given decimal number using arrays.
+- **LA7.** WAP to sort an array using selection sort algorithm.
+- **LA8.** WAP to sort an array using bubble sort algorithm.
 
-LA5.7 WAP to find out the sum of the elements stored in a matrix.
-LA5.8 WAP to find out the transpose of a given matrix.
+- **HA1.** WAP to perform ternary search on a array for a search key.
+- **HA2.** WAP to sort an array using insertion sort algorithm.
 
-HA5.6 WAP to find out the sum of the secondary diagonal elements of a matrix.
-HA5.7 WAP to check whether a given matrix is symmetric or not.
-HA5.8 WAP to check whether a given matrix is orthogonal or not.
+                                                      ##ASSIGNMENT_5(3)
+
+- **SA6.5.** WAP to add two matrices and display it.
+- **SA6.6.** WAP to multiply two matrices and display it.
+- **SA6.7.** WAP to find the Trace(sum of the diagonal element) of a given mxn matrix.
+
+- **LA5.7.** WAP to find out the sum of the elements stored in a matrix.
+- **LA5.8.** WAP to find out the transpose of a given matrix.
+
+- **HA5.6.** WAP to find out the sum of the secondary diagonal elements of a matrix.
+- **HA5.7.** WAP to check whether a given matrix is symmetric or not.
+- **HA5.8.** WAP to check whether a given matrix is orthogonal or not.
+
+
+
 __________________________________________________________________________________________________________________________________________________________________
                                                               ARRAY(PRACTICE)
                                                               
